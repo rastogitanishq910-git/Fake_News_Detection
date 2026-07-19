@@ -1,0 +1,13 @@
+{
+  "best_model": "Random Forest",
+  "trained_at": "2026-07-15T11:25:07",
+  "train_size": 35911,
+  "test_size": 8978,
+  "vocab_size": 5000,
+  "models_compared": [
+    "Logistic Regression",
+    "Passive Aggressive Classifier",
+    "Multinomial Naive Bayes",
+    "Random Forest"
+  ]
+}
