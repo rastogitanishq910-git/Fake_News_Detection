@@ -118,4 +118,4 @@ python train_model.py
 
 ## 👨‍💻 Author
 
-**Vaibhav Bhatnagar**
+**Tanishq Rastogi**
